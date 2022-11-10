@@ -1,9 +1,9 @@
 # Moderately-sized 3D printable USB macro key
 
-- Less than 5€ to make
-- Works with any Cherry MX compatible switch
-- 59x59mm size
-- Support for rubber feet
+- __Less than 5€ to make__
+- __Works with any Cherry MX compatible switch__
+- __59x59mm size__
+- __Support for rubber feet__
 
 <p align="middle">
   <img src="./assets/top_view.jpg" width="400" />
@@ -52,6 +52,8 @@ http://digistump.com/wiki/digispark/tutorials/connecting
 http://digistump.com/wiki/digispark/tutorials/digikeyboard
 
 https://javiervidrua.github.io/blog/jekyll/update/2020/11/06/rubber-ducky-with-digispark-attiny85.html
+
+https://github.com/digistump/DigisparkArduinoIntegration/blob/master/libraries/DigisparkKeyboard/DigiKeyboard.h
 
 ## Schematic
 
