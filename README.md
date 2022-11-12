@@ -36,7 +36,7 @@ The macro key consists of two parts:
 - the base - [stl](./macrokey_base.stl) | [step](./macrokey_base.step)
 - the keycap - [stl](./macrokey_keycap.stl) | [step](./macrokey_keycap.step)
 
-I printed it with 0.1mm resolution with supports everywhere.
+I printed the base with 0.1mm resolution with supports everywhere.
 I printed the keycap with 0.07mm resolution with supports on the build plate. I also added a support blocker for the key cap stem since it's too small for the support to be printed inside and it tends to stick to the sides of the stem on my printer. The keycap should be printed with the highest resolution you can afford to make sure that the stem is printed correctly.
 
 ### Putting it together
@@ -65,7 +65,7 @@ You can load an example in the IDE from `File -> Examples -> Digispark -> Keyboa
 
 [Another unoffocial tutorial that uses the keyboard here](https://javiervidrua.github.io/blog/jekyll/update/2020/11/06/rubber-ducky-with-digispark-attiny85.html)
 
-[Keycode reference defined by the Digispark library](https://github.com/digistump/DigisparkArduinoIntegration/blob/master/libraries/DigisparkKeyboard/DigiKeyboard.h#L63)
+[Keycodes defined by the Digispark library](https://github.com/digistump/DigisparkArduinoIntegration/blob/master/libraries/DigisparkKeyboard/DigiKeyboard.h#L63)
 
 ## Schematic
 
